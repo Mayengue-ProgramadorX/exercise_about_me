@@ -14,9 +14,9 @@ fun_fact = "I created my own app to conjugate English verbs."
 
 #display names 
 print(f"\nName: {first_name} {last_name}")
-print("Age: {28}")
-print("City: {city}")
-print("Previous Career: {previous_career}")
-print("Why I'm learning to code: {reason_to_learn_code}")
-print("Fun fact: {fun_fact}")
+print(f"Age: {28}")
+print(f"City: {city}")
+print(f"Previous Career: {previous_career}")
+print(f"Why I'm learning to code: {reason_to_learn_code}")
+print(f"Fun fact: {fun_fact}")
 print("="*44)
